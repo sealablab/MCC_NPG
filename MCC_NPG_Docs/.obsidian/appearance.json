@@ -1,0 +1,13 @@
+{
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Consolas",
+  "monospaceFontFamily": "Hack",
+  "baseFontSizeAction": true,
+  "baseFontSize": 29,
+  "cssTheme": "Dark Moss",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "snippet"
+  ],
+  "accentColor": "#00a1d8"
+}
